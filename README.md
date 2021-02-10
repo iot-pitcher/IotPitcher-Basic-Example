@@ -1,4 +1,4 @@
-## [IotPitcher](https:www.iotpitcher.com) Example
+## [IotPitcher](https://www.iotpitcher.com) Example
 
 Are you developing an IoT device with ESP32? 
 
@@ -6,7 +6,7 @@ You will save atleast a month of development.
 
 We don’t care about your cloud platform, IotPitcher is a sidekick for your application.
 
-## [IotPitcher](https:www.iotpitcher.com) in a Nutshell
+## [IotPitcher](https://www.iotpitcher.com) in a Nutshell
 
 IotPitcher is an IoT development framework to build and configure easily with the following features :
 
@@ -82,5 +82,5 @@ Configurations are created just for your project! With its simple API, you can r
 
 
 
-For more info please visit [IotPitcher](https://iotpitcher.com/)
+For more info please visit [IotPitcher](https://www.iotpitcher.com/)
 
